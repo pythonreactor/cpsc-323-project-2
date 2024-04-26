@@ -17,3 +17,8 @@ printed out.
 ## Running the Program
 
 `python main.py`
+
+## Updating the Input Strings
+
+To test different input strings, one may update the values found
+in `syntax-analyzer.src.constants.py::ProvidedCFGConfig.input_strings`.
