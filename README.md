@@ -16,7 +16,7 @@ printed out.
 
 ## Running the Program
 
-`python main.py`
+`python src/main.py`
 
 ## Updating the Input Strings
 
